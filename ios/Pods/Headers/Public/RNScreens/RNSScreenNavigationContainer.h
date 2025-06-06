@@ -1,0 +1,5 @@
+XSym
+0083
+46a785373507b1e3993a800719f1411c
+../../../../../node_modules/react-native-screens/ios/RNSScreenNavigationContainer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

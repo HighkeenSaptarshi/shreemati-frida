@@ -1,0 +1,5 @@
+XSym
+0057
+f9d7e3031a046b390c498255ba98eec6
+../../../SocketRocket/SocketRocket/Internal/SRConstants.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

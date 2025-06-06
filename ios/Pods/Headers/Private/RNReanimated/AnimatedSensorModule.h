@@ -1,0 +1,5 @@
+XSym
+0111
+44a8619aca9ee0f94bf05ef0708d70ae
+../../../../../node_modules/react-native-reanimated/Common/cpp/reanimated/AnimatedSensor/AnimatedSensorModule.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

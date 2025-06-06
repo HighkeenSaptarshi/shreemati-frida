@@ -1,0 +1,5 @@
+XSym
+0073
+ff5a7801e1bd8ba98252311c1730bb59
+../../../SocketRocket/SocketRocket/Internal/IOConsumer/SRIOConsumerPool.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

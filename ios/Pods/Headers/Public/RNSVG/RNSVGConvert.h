@@ -1,0 +1,5 @@
+XSym
+0071
+6650fecc6a8de9f857f78d03c2d5d033
+../../../../../node_modules/react-native-svg/apple/Utils/RNSVGConvert.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

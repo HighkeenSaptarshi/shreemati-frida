@@ -1,0 +1,5 @@
+XSym
+0118
+75c1453d35e72c49a58f740dc853ca16
+../../../../../../node_modules/react-native/ReactCommon/reactperflogger/reactperflogger/BridgeNativeModulePerfLogger.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

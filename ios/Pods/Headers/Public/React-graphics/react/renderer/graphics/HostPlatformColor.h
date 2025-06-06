@@ -1,0 +1,5 @@
+XSym
+0142
+471777c2e5908a6b32077040542cc580
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/graphics/platform/ios/react/renderer/graphics/HostPlatformColor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

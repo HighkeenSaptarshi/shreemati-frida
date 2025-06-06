@@ -1,0 +1,5 @@
+XSym
+0083
+2b5d59343dde79e5b8c551b26a376fab
+../../../../../../../node_modules/react-native/ReactCommon/yoga/yoga/enums/Errata.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

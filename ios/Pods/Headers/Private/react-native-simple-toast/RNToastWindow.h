@@ -1,0 +1,5 @@
+XSym
+0073
+49121a342acdd77c0b6ae470075b9e62
+../../../../../node_modules/react-native-simple-toast/ios/RNToastWindow.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

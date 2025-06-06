@@ -1,0 +1,13 @@
+current directory: /Users/gourabkundu/Documents/Projects/ReactNative/ShreeCement/Shreemati/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+/Users/gourabkundu/.rbenv/versions/2.7.6/bin/ruby -I /Users/gourabkundu/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20240823-55325-rawyw5.rb extconf.rb
+creating Makefile
+
+current directory: /Users/gourabkundu/Documents/Projects/ReactNative/ShreeCement/Shreemati/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/gourabkundu/Documents/Projects/ReactNative/ShreeCement/Shreemati/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/gourabkundu/Documents/Projects/ReactNative/ShreeCement/Shreemati/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" install

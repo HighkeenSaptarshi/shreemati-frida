@@ -1,0 +1,5 @@
+XSym
+0072
+784e982a1bbf7f5b4cec95ed9f1f14b4
+../../../../../build/generated/ios/FBReactNativeSpec/FBReactNativeSpec.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

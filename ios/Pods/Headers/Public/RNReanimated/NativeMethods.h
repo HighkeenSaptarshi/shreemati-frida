@@ -1,0 +1,5 @@
+XSym
+0080
+e3e8f444bdf92b034412bef90f7f01dc
+../../../../../node_modules/react-native-reanimated/apple/native/NativeMethods.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

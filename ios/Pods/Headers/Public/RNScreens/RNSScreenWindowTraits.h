@@ -1,0 +1,5 @@
+XSym
+0076
+d7f0088d4231e2e1753f5eef3705d22b
+../../../../../node_modules/react-native-screens/ios/RNSScreenWindowTraits.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

@@ -1,0 +1,5 @@
+XSym
+0088
+fb96a7f67c0e52b96f1f16a969881b59
+../../../../../node_modules/react-native-screens/ios/events/RNSHeaderHeightChangeEvent.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

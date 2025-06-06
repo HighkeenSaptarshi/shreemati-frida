@@ -1,0 +1,5 @@
+XSym
+0082
+9359b0cfd54eb90f4fb683086b6a9777
+../../../../../node_modules/react-native-screens/ios/RNSScreenStackHeaderSubview.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

@@ -1,0 +1,5 @@
+XSym
+0081
+3197db205aa1e43d8e43ed71c77cdd8d
+../../../../../node_modules/react-native-screens/ios/RNSScreenStackHeaderConfig.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

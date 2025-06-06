@@ -1,0 +1,5 @@
+XSym
+0063
+b9a7791328bbb629c3bc8d6b0c84f5d1
+../../../SocketRocket/SocketRocket/Internal/Utilities/SRError.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

@@ -1,0 +1,5 @@
+XSym
+0086
+9b3140f11032c39a7d66301774bf698a
+../../../../../node_modules/react-native-svg/apple/ViewManagers/RNSVGClipPathManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

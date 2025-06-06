@@ -1,0 +1,5 @@
+XSym
+0067
+79c89b742a500003488e9b60fc37aade
+../../../../../node_modules/react-native-screens/ios/RNSSearchBar.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

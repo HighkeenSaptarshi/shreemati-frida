@@ -1,0 +1,5 @@
+XSym
+0091
+4aa79373fbac2dce02e8a039f9d68954
+../../../../../node_modules/react-native-safe-area-context/ios/RNCSafeAreaProviderManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

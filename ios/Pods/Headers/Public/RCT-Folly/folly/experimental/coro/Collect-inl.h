@@ -1,0 +1,5 @@
+XSym
+0065
+6dc2b3453b491f6ffbb0a19e664ca49b
+../../../../../../RCT-Folly/folly/experimental/coro/Collect-inl.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

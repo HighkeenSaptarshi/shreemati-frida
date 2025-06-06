@@ -1,0 +1,5 @@
+XSym
+0067
+d926f4d2c0d38bcae4c3bfc78fbec659
+../../../../../node_modules/react-native-svg/apple/Text/RNSVGText.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

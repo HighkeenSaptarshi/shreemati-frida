@@ -1,0 +1,5 @@
+XSym
+0054
+359f35d871868198eb1b57018a1e9a31
+../../../../../RCT-Folly/folly/fibers/BatchSemaphore.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

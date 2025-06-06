@@ -1,0 +1,5 @@
+XSym
+0049
+5072056460ffe5fe0ccaa365335f428f
+../../../SocketRocket/SocketRocket/SocketRocket.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

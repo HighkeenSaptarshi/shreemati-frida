@@ -1,0 +1,5 @@
+XSym
+0084
+8c79498ec93e805db3b33497f693b55e
+../../../../../node_modules/react-native-svg/apple/ViewManagers/RNSVGFilterManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

@@ -1,0 +1,5 @@
+XSym
+0085
+6c5776def70a3d7fc2782415ac316ac9
+../../../../../node_modules/react-native-svg/apple/ViewManagers/RNSVGFeMergeManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

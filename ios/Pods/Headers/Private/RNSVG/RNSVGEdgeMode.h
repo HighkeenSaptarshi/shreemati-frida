@@ -1,0 +1,5 @@
+XSym
+0074
+4fb18149006132d571e1dcf35efb4e5d
+../../../../../node_modules/react-native-svg/apple/Filters/RNSVGEdgeMode.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

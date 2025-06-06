@@ -1,0 +1,5 @@
+XSym
+0066
+8b858195135c031e6e61f0fec6f2681d
+../../../SocketRocket/SocketRocket/Internal/Proxy/SRProxyConnect.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

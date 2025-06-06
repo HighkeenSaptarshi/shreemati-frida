@@ -1,0 +1,5 @@
+XSym
+0096
+be9605afc83e86cd8d6255d5cf28ba1b
+../../../../../node_modules/react-native-reanimated/Common/cpp/reanimated/Fabric/PropsRegistry.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

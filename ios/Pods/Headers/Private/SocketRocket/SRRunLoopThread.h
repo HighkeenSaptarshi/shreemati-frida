@@ -1,0 +1,5 @@
+XSym
+0069
+b44baa3afb0da0c0c2ee7d8cb486e883
+../../../SocketRocket/SocketRocket/Internal/RunLoop/SRRunLoopThread.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

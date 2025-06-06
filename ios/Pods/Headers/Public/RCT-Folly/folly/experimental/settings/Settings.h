@@ -1,0 +1,5 @@
+XSym
+0066
+6199e6c6fe860a93179c827c506ce64a
+../../../../../../RCT-Folly/folly/experimental/settings/Settings.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

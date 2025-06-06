@@ -1,0 +1,5 @@
+XSym
+0078
+08f72e6397aba07af5b7a1867452bf72
+../../../../../node_modules/react-native-svg/apple/Text/RNSVGTopAlignedLabel.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

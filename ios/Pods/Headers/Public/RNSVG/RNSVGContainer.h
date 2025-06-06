@@ -1,0 +1,5 @@
+XSym
+0067
+ae69163ef610de86f722f0a0af461f62
+../../../../../node_modules/react-native-svg/apple/RNSVGContainer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

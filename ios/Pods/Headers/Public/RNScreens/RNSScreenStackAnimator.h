@@ -1,0 +1,5 @@
+XSym
+0077
+343db36675730020f552346acd32b667
+../../../../../node_modules/react-native-screens/ios/RNSScreenStackAnimator.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

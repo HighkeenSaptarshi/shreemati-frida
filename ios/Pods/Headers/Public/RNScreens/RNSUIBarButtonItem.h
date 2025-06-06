@@ -1,0 +1,5 @@
+XSym
+0079
+61da8c3063dbb144053fa3b22c99b76e
+../../../../../node_modules/react-native-screens/ios/utils/RNSUIBarButtonItem.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

@@ -1,0 +1,5 @@
+XSym
+0078
+a6ed405439c9871ddd7e18c7d1a36d29
+../../../../../../RCT-Folly/folly/synchronization/detail/ThreadCachedReaders.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

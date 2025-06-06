@@ -1,0 +1,5 @@
+XSym
+0105
+d1d421a7b97aa746e8017346061ab407
+../../../../../node_modules/react-native-reanimated/Common/cpp/worklets/Registries/EventHandlerRegistry.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

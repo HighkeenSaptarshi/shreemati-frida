@@ -1,0 +1,5 @@
+XSym
+0091
+94705b6927fcce0da869e4ac0702d8ef
+../../../../../node_modules/react-native/Libraries/AppDelegate/RCTLegacyInteropComponents.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

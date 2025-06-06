@@ -1,0 +1,5 @@
+XSym
+0086
+43f151233b1e8172b8e7f288f996847a
+../../../../../node_modules/react-native-gesture-handler/apple/Handlers/RNTapHandler.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

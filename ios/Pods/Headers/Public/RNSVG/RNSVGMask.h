@@ -1,0 +1,5 @@
+XSym
+0071
+45db1110718995e2dd1bde24d16e2def
+../../../../../node_modules/react-native-svg/apple/Elements/RNSVGMask.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

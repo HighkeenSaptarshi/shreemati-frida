@@ -1,0 +1,5 @@
+XSym
+0070
+e9beee1becb93c8886e20b61584d2788
+../../../SocketRocket/SocketRocket/Internal/Utilities/SRURLUtilities.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

@@ -1,0 +1,5 @@
+XSym
+0077
+492a902bd39603f1fba89e5539b953b8
+../../../SocketRocket/SocketRocket/Internal/NSURLRequest+SRWebSocketPrivate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

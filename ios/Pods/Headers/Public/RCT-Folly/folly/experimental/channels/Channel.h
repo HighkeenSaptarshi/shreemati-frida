@@ -1,0 +1,5 @@
+XSym
+0065
+535866c447cfa0ccbffdf082dfe859d8
+../../../../../../RCT-Folly/folly/experimental/channels/Channel.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

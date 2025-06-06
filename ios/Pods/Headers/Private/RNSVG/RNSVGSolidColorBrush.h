@@ -1,0 +1,5 @@
+XSym
+0081
+30fe851491e77380f975c2195d5f042b
+../../../../../node_modules/react-native-svg/apple/Brushes/RNSVGSolidColorBrush.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

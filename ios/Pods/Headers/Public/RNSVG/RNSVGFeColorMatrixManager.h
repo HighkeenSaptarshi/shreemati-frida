@@ -1,0 +1,5 @@
+XSym
+0091
+14a770b141990da7e905a5d274943bd7
+../../../../../node_modules/react-native-svg/apple/ViewManagers/RNSVGFeColorMatrixManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

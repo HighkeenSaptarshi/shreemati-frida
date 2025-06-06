@@ -1,0 +1,5 @@
+XSym
+0085
+3393783c27fcfc160291848a62a1df73
+../../../../../node_modules/@react-native-community/checkbox/ios/RNCCheckboxManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

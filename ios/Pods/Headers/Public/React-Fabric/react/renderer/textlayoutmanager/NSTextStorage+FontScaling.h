@@ -1,0 +1,5 @@
+XSym
+0168
+c6dd51561000bc54b8f2d82676b8800e
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/textlayoutmanager/platform/ios/react/renderer/textlayoutmanager/NSTextStorage+FontScaling.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

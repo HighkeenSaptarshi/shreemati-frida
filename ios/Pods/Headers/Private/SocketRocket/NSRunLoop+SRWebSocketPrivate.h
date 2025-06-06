@@ -1,0 +1,5 @@
+XSym
+0074
+f86c30bcf8d6aa4e0453028804af99bc
+../../../SocketRocket/SocketRocket/Internal/NSRunLoop+SRWebSocketPrivate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

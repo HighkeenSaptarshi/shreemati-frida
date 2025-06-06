@@ -1,0 +1,5 @@
+XSym
+0169
+0c5691136f110f6bde383f854a723a84
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/textinput/iostextinput/react/renderer/components/iostextinput/TextInputProps.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

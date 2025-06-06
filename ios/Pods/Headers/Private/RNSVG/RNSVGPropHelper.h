@@ -1,0 +1,5 @@
+XSym
+0073
+6a1cbe33e398058e3ee7f97567cf8ef9
+../../../../../node_modules/react-native-svg/apple/Text/RNSVGPropHelper.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

@@ -1,0 +1,5 @@
+XSym
+0063
+d0e95158501915c058ab447b47b98c2b
+../../../../../../RCT-Folly/folly/experimental/coro/Transform.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

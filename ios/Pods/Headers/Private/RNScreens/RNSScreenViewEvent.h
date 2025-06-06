@@ -1,0 +1,5 @@
+XSym
+0080
+d3ca0d361d5884d98afae4519bf170aa
+../../../../../node_modules/react-native-screens/ios/events/RNSScreenViewEvent.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

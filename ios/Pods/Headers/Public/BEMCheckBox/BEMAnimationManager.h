@@ -1,0 +1,5 @@
+XSym
+0050
+75d75260a3d97bc016bd936e18b031d0
+../../../BEMCheckBox/Classes/BEMAnimationManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

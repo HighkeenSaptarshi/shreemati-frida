@@ -1,0 +1,5 @@
+XSym
+0103
+3f53d275e6632cbd62f6192f5a852d56
+../../../../../node_modules/react-native-screens/ios/RCTImageComponentView+RNSScreenStackHeaderConfig.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

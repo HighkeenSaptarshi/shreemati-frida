@@ -1,0 +1,5 @@
+XSym
+0068
+0816a7876f1002da3c831f38d762149d
+../../../../../../RCT-Folly/folly/experimental/coro/AsyncGenerator.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

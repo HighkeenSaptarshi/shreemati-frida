@@ -1,0 +1,4 @@
+#Sat May 31 23:50:57 IST 2025
+base.0=/Users/gourabkundu/Documents/Projects/ReactNative/ShreeCement/Shreemati/android/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

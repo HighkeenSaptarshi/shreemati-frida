@@ -1,0 +1,5 @@
+XSym
+0076
+834656c937c13d99de6224e832d4d5e1
+../../../SocketRocket/SocketRocket/Internal/Utilities/SRHTTPConnectMessage.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

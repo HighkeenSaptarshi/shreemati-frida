@@ -1,0 +1,5 @@
+XSym
+0082
+9c00cb877fa4bc1d66555188443b7da2
+../../../../../../../RCT-Folly/folly/experimental/channels/detail/FunctionTraits.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

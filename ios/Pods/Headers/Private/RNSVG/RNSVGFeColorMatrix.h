@@ -1,0 +1,5 @@
+XSym
+0079
+1d4babfcae26503e759c7771ee583539
+../../../../../node_modules/react-native-svg/apple/Filters/RNSVGFeColorMatrix.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

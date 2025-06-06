@@ -1,0 +1,5 @@
+XSym
+0069
+2e9e76d2fbfc0f275d59a1ecfce7e2f6
+../../../SocketRocket/SocketRocket/Internal/Utilities/SRSIMDHelpers.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

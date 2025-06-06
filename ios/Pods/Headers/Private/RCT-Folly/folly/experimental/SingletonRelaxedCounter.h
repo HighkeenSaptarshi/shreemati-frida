@@ -1,0 +1,5 @@
+XSym
+0069
+db6e6be43d27eebb94b73b497deef86c
+../../../../../RCT-Folly/folly/experimental/SingletonRelaxedCounter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

@@ -1,0 +1,16 @@
+current directory: /Users/gourabkundu/Documents/Projects/ReactNative/ShreeCement/Shreemati/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+/Users/gourabkundu/.rbenv/versions/2.7.6/bin/ruby -I /Users/gourabkundu/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20240823-55325-c11hsm.rb extconf.rb
+creating Makefile
+
+current directory: /Users/gourabkundu/Documents/Projects/ReactNative/ShreeCement/Shreemati/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" clean
+
+current directory: /Users/gourabkundu/Documents/Projects/ReactNative/ShreeCement/Shreemati/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR="
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/gourabkundu/Documents/Projects/ReactNative/ShreeCement/Shreemati/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240823-55325-ypifl

@@ -1,0 +1,5 @@
+XSym
+0086
+4dcbefce1a47f979db4f3c59c420f295
+../../../../../node_modules/react-native-gesture-handler/apple/Handlers/RNPanHandler.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

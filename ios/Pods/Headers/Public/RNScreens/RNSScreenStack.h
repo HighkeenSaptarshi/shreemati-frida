@@ -1,0 +1,5 @@
+XSym
+0069
+3b2fe9959206fb7fd5f00c9f90ed198e
+../../../../../node_modules/react-native-screens/ios/RNSScreenStack.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

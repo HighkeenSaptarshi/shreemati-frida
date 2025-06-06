@@ -1,0 +1,5 @@
+XSym
+0091
+77049790c45616130d39ac3802af2089
+../../../../../node_modules/react-native-svg/apple/ViewManagers/RNSVGForeignObjectManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

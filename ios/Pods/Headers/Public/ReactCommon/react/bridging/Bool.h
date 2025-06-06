@@ -1,0 +1,5 @@
+XSym
+0080
+56449998b0bfd9917c43a0ec395120a1
+../../../../../../../node_modules/react-native/ReactCommon/react/bridging/Bool.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

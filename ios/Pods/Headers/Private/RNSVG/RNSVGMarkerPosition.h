@@ -1,0 +1,5 @@
+XSym
+0078
+ecc91f3418791740a783e3609ed9e80e
+../../../../../node_modules/react-native-svg/apple/Utils/RNSVGMarkerPosition.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

@@ -1,0 +1,5 @@
+XSym
+0095
+614fb30018043f4d079d20f8290eab79
+../../../../../node_modules/react-native-gesture-handler/apple/RNGestureHandlerPointerTracker.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

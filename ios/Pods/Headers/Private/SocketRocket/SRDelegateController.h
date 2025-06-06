@@ -1,0 +1,5 @@
+XSym
+0075
+d5c9c7080f51cc6d24fffda614564d1b
+../../../SocketRocket/SocketRocket/Internal/Delegate/SRDelegateController.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

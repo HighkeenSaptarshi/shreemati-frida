@@ -1,0 +1,5 @@
+XSym
+0100
+919422f10c8b344669060be2d54b0210
+../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/mounting/StubViewTree.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

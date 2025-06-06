@@ -1,0 +1,5 @@
+XSym
+0078
+fe3e1aa42a561de5d931428511ac79e1
+../../../../../node_modules/react-native-svg/apple/Brushes/RNSVGContextBrush.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

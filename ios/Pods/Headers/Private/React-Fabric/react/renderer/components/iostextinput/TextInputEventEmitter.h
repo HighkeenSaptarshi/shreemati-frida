@@ -1,0 +1,5 @@
+XSym
+0176
+9ad46f0340fcc90642e543c2a0516f37
+../../../../../../../../../node_modules/react-native/ReactCommon/react/renderer/components/textinput/iostextinput/react/renderer/components/iostextinput/TextInputEventEmitter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

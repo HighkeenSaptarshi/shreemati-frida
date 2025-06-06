@@ -1,0 +1,5 @@
+XSym
+0086
+3fc77f60dbc870cf1cf0a3cea2b0d851
+../../../../../node_modules/react-native-svg/apple/ViewManagers/RNSVGFeOffsetManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

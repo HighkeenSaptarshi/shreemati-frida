@@ -1,0 +1,5 @@
+XSym
+0077
+6336bf90545e8812764a6e7373d20ad1
+../../../../../node_modules/react-native-svg/apple/Utils/RNSVGBezierElement.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

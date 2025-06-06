@@ -1,0 +1,5 @@
+XSym
+0074
+7337716b01fe132bf4218297ded5d6ab
+../../../../../node_modules/react-native-svg/apple/Elements/RNSVGPattern.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

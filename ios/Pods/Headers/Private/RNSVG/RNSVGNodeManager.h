@@ -1,0 +1,5 @@
+XSym
+0082
+d27ae93160d2ff1c4e1f89e87507a9ed
+../../../../../node_modules/react-native-svg/apple/ViewManagers/RNSVGNodeManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

@@ -1,0 +1,5 @@
+XSym
+0068
+096204c1ecf22afbd82014ed7df1269a
+../../../../../node_modules/react-native-svg/apple/RNSVGRenderable.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

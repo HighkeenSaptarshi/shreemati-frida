@@ -1,0 +1,5 @@
+XSym
+0073
+267726f52d8d858c1de07faf4b4dd762
+../../../../../node_modules/react-native-screens/ios/UIWindow+RNScreens.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
